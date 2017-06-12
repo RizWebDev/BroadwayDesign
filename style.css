@@ -4,7 +4,7 @@ body {
 
 .header {
   background-image: url('resources/images/the-flatiron-building.png');
-  margin-top: 0px;
+  background-size: 100% 100%;
 }
 
 .headerText {
@@ -38,6 +38,7 @@ a {
 }
 
 ul {
+  text-align: center;
   list-style: none;
 }
 
@@ -71,6 +72,6 @@ h4 {
 
 .footerBtn {
   font-family: Helvetica;
-  font-size: 18px;
+  font-size: 11px;
   color: white;
 }
